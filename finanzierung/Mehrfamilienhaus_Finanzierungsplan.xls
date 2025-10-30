@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Objektdaten">
+<Table>
+<Row><Cell><Data ss:Type="String">Beschreibung</Data></Cell><Cell><Data ss:Type="String">Wert</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Objektart</Data></Cell><Cell><Data ss:Type="String">Mehrfamilienhaus</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Kaufpreis</Data></Cell><Cell><Data ss:Type="Number">1500000</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Wohnfläche (m²)</Data></Cell><Cell><Data ss:Type="Number">750</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Gewerbefläche (m²)</Data></Cell><Cell><Data ss:Type="Number">120</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Anzahl Einheiten</Data></Cell><Cell><Data ss:Type="Number">10</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Baujahr</Data></Cell><Cell><Data ss:Type="Number">1995</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Lage</Data></Cell><Cell><Data ss:Type="String">Innenstadt</Data></Cell></Row>
+</Table>
+</Worksheet>
+<Worksheet ss:Name="Kaufnebenkosten">
+<Table>
+<Row><Cell><Data ss:Type="String">Kostenart</Data></Cell><Cell><Data ss:Type="String">Prozentsatz</Data></Cell><Cell><Data ss:Type="String">Betrag</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Grunderwerbsteuer (6,5%)</Data></Cell><Cell><Data ss:Type="Number">0.065</Data></Cell><Cell><Data ss:Type="Number">97500.0</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Notar & Grundbucheintrag (1,5%)</Data></Cell><Cell><Data ss:Type="Number">0.015</Data></Cell><Cell><Data ss:Type="Number">22500.0</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Maklercourtage (3,0%)</Data></Cell><Cell><Data ss:Type="Number">0.03</Data></Cell><Cell><Data ss:Type="Number">45000.0</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Gutachter & Due Diligence</Data></Cell><Cell><Data ss:Type="Number">0.004</Data></Cell><Cell><Data ss:Type="Number">6000.0</Data></Cell></Row>
+</Table>
+</Worksheet>
+<Worksheet ss:Name="Finanzierung">
+<Table>
+<Row><Cell><Data ss:Type="String">Finanzierungsbaustein</Data></Cell><Cell><Data ss:Type="String">Anteil</Data></Cell><Cell><Data ss:Type="String">Betrag</Data></Cell><Cell><Data ss:Type="String">Zinssatz</Data></Cell><Cell><Data ss:Type="String">Tilgung</Data></Cell><Cell><Data ss:Type="String">Jährliche Annuität</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Eigenkapital</Data></Cell><Cell><Data ss:Type="Number">0.2</Data></Cell><Cell><Data ss:Type="Number">334200.0</Data></Cell><Cell><Data ss:Type="String">-</Data></Cell><Cell><Data ss:Type="String">-</Data></Cell><Cell><Data ss:Type="String">-</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Bankdarlehen</Data></Cell><Cell><Data ss:Type="Number">0.7</Data></Cell><Cell><Data ss:Type="Number">1169700.0</Data></Cell><Cell><Data ss:Type="Number">0.032</Data></Cell><Cell><Data ss:Type="Number">0.02</Data></Cell><Cell><Data ss:Type="Number">60824.4</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">KfW-Programm</Data></Cell><Cell><Data ss:Type="Number">0.1</Data></Cell><Cell><Data ss:Type="Number">167100.0</Data></Cell><Cell><Data ss:Type="Number">0.025</Data></Cell><Cell><Data ss:Type="Number">0.01</Data></Cell><Cell><Data ss:Type="Number">5848.5</Data></Cell></Row>
+</Table>
+</Worksheet>
+<Worksheet ss:Name="Darlehen Bank">
+<Table>
+<Row><Cell><Data ss:Type="String">Jahr</Data></Cell><Cell><Data ss:Type="String">Zinszahlung</Data></Cell><Cell><Data ss:Type="String">Tilgung</Data></Cell><Cell><Data ss:Type="String">Annuität</Data></Cell><Cell><Data ss:Type="String">Restschuld</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">1</Data></Cell><Cell><Data ss:Type="Number">37430.4</Data></Cell><Cell><Data ss:Type="Number">23394.0</Data></Cell><Cell><Data ss:Type="Number">60824.4</Data></Cell><Cell><Data ss:Type="Number">1146306.0</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">2</Data></Cell><Cell><Data ss:Type="Number">36681.79</Data></Cell><Cell><Data ss:Type="Number">24142.61</Data></Cell><Cell><Data ss:Type="Number">60824.4</Data></Cell><Cell><Data ss:Type="Number">1122163.39</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">3</Data></Cell><Cell><Data ss:Type="Number">35909.23</Data></Cell><Cell><Data ss:Type="Number">24915.17</Data></Cell><Cell><Data ss:Type="Number">60824.4</Data></Cell><Cell><Data ss:Type="Number">1097248.22</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">4</Data></Cell><Cell><Data ss:Type="Number">35111.94</Data></Cell><Cell><Data ss:Type="Number">25712.46</Data></Cell><Cell><Data ss:Type="Number">60824.4</Data></Cell><Cell><Data ss:Type="Number">1071535.76</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">5</Data></Cell><Cell><Data ss:Type="Number">34289.14</Data></Cell><Cell><Data ss:Type="Number">26535.26</Data></Cell><Cell><Data ss:Type="Number">60824.4</Data></Cell><Cell><Data ss:Type="Number">1045000.5</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">6</Data></Cell><Cell><Data ss:Type="Number">33440.02</Data></Cell><Cell><Data ss:Type="Number">27384.38</Data></Cell><Cell><Data ss:Type="Number">60824.4</Data></Cell><Cell><Data ss:Type="Number">1017616.12</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">7</Data></Cell><Cell><Data ss:Type="Number">32563.72</Data></Cell><Cell><Data ss:Type="Number">28260.68</Data></Cell><Cell><Data ss:Type="Number">60824.4</Data></Cell><Cell><Data ss:Type="Number">989355.44</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">8</Data></Cell><Cell><Data ss:Type="Number">31659.37</Data></Cell><Cell><Data ss:Type="Number">29165.03</Data></Cell><Cell><Data ss:Type="Number">60824.4</Data></Cell><Cell><Data ss:Type="Number">960190.41</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">9</Data></Cell><Cell><Data ss:Type="Number">30726.09</Data></Cell><Cell><Data ss:Type="Number">30098.31</Data></Cell><Cell><Data ss:Type="Number">60824.4</Data></Cell><Cell><Data ss:Type="Number">930092.1</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">10</Data></Cell><Cell><Data ss:Type="Number">29762.95</Data></Cell><Cell><Data ss:Type="Number">31061.45</Data></Cell><Cell><Data ss:Type="Number">60824.4</Data></Cell><Cell><Data ss:Type="Number">899030.65</Data></Cell></Row>
+</Table>
+</Worksheet>
+<Worksheet ss:Name="Darlehen KfW">
+<Table>
+<Row><Cell><Data ss:Type="String">Jahr</Data></Cell><Cell><Data ss:Type="String">Zinszahlung</Data></Cell><Cell><Data ss:Type="String">Tilgung</Data></Cell><Cell><Data ss:Type="String">Annuität</Data></Cell><Cell><Data ss:Type="String">Restschuld</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">1</Data></Cell><Cell><Data ss:Type="Number">4177.5</Data></Cell><Cell><Data ss:Type="Number">1671.0</Data></Cell><Cell><Data ss:Type="Number">5848.5</Data></Cell><Cell><Data ss:Type="Number">165429.0</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">2</Data></Cell><Cell><Data ss:Type="Number">4135.73</Data></Cell><Cell><Data ss:Type="Number">1712.77</Data></Cell><Cell><Data ss:Type="Number">5848.5</Data></Cell><Cell><Data ss:Type="Number">163716.23</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">3</Data></Cell><Cell><Data ss:Type="Number">4092.91</Data></Cell><Cell><Data ss:Type="Number">1755.59</Data></Cell><Cell><Data ss:Type="Number">5848.5</Data></Cell><Cell><Data ss:Type="Number">161960.64</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">4</Data></Cell><Cell><Data ss:Type="Number">4049.02</Data></Cell><Cell><Data ss:Type="Number">1799.48</Data></Cell><Cell><Data ss:Type="Number">5848.5</Data></Cell><Cell><Data ss:Type="Number">160161.16</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">5</Data></Cell><Cell><Data ss:Type="Number">4004.03</Data></Cell><Cell><Data ss:Type="Number">1844.47</Data></Cell><Cell><Data ss:Type="Number">5848.5</Data></Cell><Cell><Data ss:Type="Number">158316.69</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">6</Data></Cell><Cell><Data ss:Type="Number">3957.92</Data></Cell><Cell><Data ss:Type="Number">1890.58</Data></Cell><Cell><Data ss:Type="Number">5848.5</Data></Cell><Cell><Data ss:Type="Number">156426.11</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">7</Data></Cell><Cell><Data ss:Type="Number">3910.65</Data></Cell><Cell><Data ss:Type="Number">1937.85</Data></Cell><Cell><Data ss:Type="Number">5848.5</Data></Cell><Cell><Data ss:Type="Number">154488.26</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">8</Data></Cell><Cell><Data ss:Type="Number">3862.21</Data></Cell><Cell><Data ss:Type="Number">1986.29</Data></Cell><Cell><Data ss:Type="Number">5848.5</Data></Cell><Cell><Data ss:Type="Number">152501.97</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">9</Data></Cell><Cell><Data ss:Type="Number">3812.55</Data></Cell><Cell><Data ss:Type="Number">2035.95</Data></Cell><Cell><Data ss:Type="Number">5848.5</Data></Cell><Cell><Data ss:Type="Number">150466.02</Data></Cell></Row>
+<Row><Cell><Data ss:Type="Number">10</Data></Cell><Cell><Data ss:Type="Number">3761.65</Data></Cell><Cell><Data ss:Type="Number">2086.85</Data></Cell><Cell><Data ss:Type="Number">5848.5</Data></Cell><Cell><Data ss:Type="Number">148379.17</Data></Cell></Row>
+</Table>
+</Worksheet>
+<Worksheet ss:Name="Cashflow">
+<Table>
+<Row><Cell><Data ss:Type="String">Position</Data></Cell><Cell><Data ss:Type="String">Jährlich</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Bruttomieteinnahmen</Data></Cell><Cell><Data ss:Type="Number">134100.0</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">./. Mietausfallwagnis (4%)</Data></Cell><Cell><Data ss:Type="Number">-5364.0</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">./. nicht umlagefähige Kosten</Data></Cell><Cell><Data ss:Type="Number">-18000</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">./. Instandhaltungsrücklage</Data></Cell><Cell><Data ss:Type="Number">-9000</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">./. Hausverwaltung</Data></Cell><Cell><Data ss:Type="Number">-3600</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Netto-Mieteinnahmen</Data></Cell><Cell><Data ss:Type="Number">98136.0</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">./. Annuität Bankdarlehen</Data></Cell><Cell><Data ss:Type="Number">-60824.4</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">./. Annuität KfW-Programm</Data></Cell><Cell><Data ss:Type="Number">-5848.5</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Jährlicher Cashflow vor Steuern</Data></Cell><Cell><Data ss:Type="Number">129599.1</Data></Cell></Row>
+</Table>
+</Worksheet>
+<Worksheet ss:Name="Kennzahlen">
+<Table>
+<Row><Cell><Data ss:Type="String">Kennzahl</Data></Cell><Cell><Data ss:Type="String">Wert</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Kaufpreis je m² Wohnfläche</Data></Cell><Cell><Data ss:Type="Number">2000.0</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Investitionssumme gesamt</Data></Cell><Cell><Data ss:Type="Number">1671000.0</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Eigenkapitalrendite (vor Steuern)</Data></Cell><Cell><Data ss:Type="Number">38.78</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Debt-Service-Coverage-Ratio</Data></Cell><Cell><Data ss:Type="Number">1.47</Data></Cell></Row>
+<Row><Cell><Data ss:Type="String">Faktor (Kaufpreis / Jahresnettokaltmiete)</Data></Cell><Cell><Data ss:Type="Number">11.65</Data></Cell></Row>
+</Table>
+</Worksheet></Workbook>
